@@ -24,16 +24,11 @@ This project uses several methods of regression, we want compare it and get the 
 2. Regularized Linear Regression With The Best Lambda (Lasso & Ridge Regression)
 3. Random Forest Regression
 
-## Step Using Python
-1. Split The Data
-2. Model Training & Coefficient Obtained
-3. Model Diagnostics
-
-
 ## Requirements
 - [x] pandas
 - [x] numpy
 - [x] sklearn
+- [x] statsmodels 
 - [x] seaborn
 - [x] matplotlib
 
