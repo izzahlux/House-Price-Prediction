@@ -37,10 +37,11 @@ This project uses several methods of regression, we want compare it and get the 
 | MAE | 3.376244| 3.535684 | 3.375222 | 2.538490 |
 | MAPE | 0.180371| 0.293518 | 0.252971 | 0.130002 |
 
-From those metrics score, we can conclude that :
-1. Random Forest Regression Model has the highest R2 Score, that is 0.971135. It means that 97,11% of the total variability of medv was successfully modeled using that features. 
-2. Random Forest Regression Model has the smallest RMSE, MAE, & MAPE Value.
-3. The three most important features that affect the house price (medv) based on random forest model are rm, ptratio, & zn.
+From those metrics score, we can conclude that:
+1. Random Forest Regression Model is the best model to predict the house price (medv).
+2. Random Forest Regression Model has the highest R2 Score, that is 0.971135. It means that 97,11% of the total variability of medv was successfully modeled using that features. 
+3. Random Forest Regression Model has the smallest RMSE, MAE, & MAPE Value.
+4. The three most important features that affect the house price (medv) based on random forest model are rm, ptratio, & zn.
 
 ## Requirements
 
